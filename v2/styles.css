@@ -35,7 +35,7 @@ body{
     border: 1px solid white;
 }
 
-.hero-nav a{
+.hero-nav nav a{
     background: rgba(0,0,0, 0.3);
     display: block;
     padding: 15px;
@@ -46,7 +46,7 @@ body{
     letter-spacing: 2px;
 }
 
-.hero-nav a:hover{
+.hero-nav nav a:hover{
     background: rgba(0,0,0, 0.5);
 }
 
